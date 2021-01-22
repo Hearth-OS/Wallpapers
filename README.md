@@ -18,3 +18,6 @@ Heath OS Desktop with Lumina DE
 
 # Placeholder
 The quick brown fox jumps over the lazy dog
+
+# Other Info
+This isn't the perfect or ideal README, so you have some questions, or would like to add an image, make a pull request, or bring it up in a discussion with me and/or Hallway
