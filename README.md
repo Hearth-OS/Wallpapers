@@ -6,7 +6,7 @@ If you'd like to install the wallpapers, you can clone the repo and go from ther
 $ git clone https://github.com/Hearth-OS/Wallpapers/
 ```
 *If you get an error like `command not found: **git**`, install [`git`](https://git-scm.com/)*
-after which, you can go to the directory containing the wallp[apers and browse around.
+after which, you can go to the directory containing the wallpapers and browse around.
 
 ## General wallpaper guidelines
 
