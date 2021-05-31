@@ -14,5 +14,8 @@ Download them through [*Releases*](https://github.com/Hearth-OS/Wallpapers/relea
 * Wallpapers should be at least 1920x1080p
 * Use common sense, and think of others before yourself
 
+## Hearth OS Builds
+Puth this repo inside of [src/Base/res/wallpapers/](https://github.com/Hearth-OS/src/tree/master/Base/res/wallpapers).
+
 ## Questions?
 Use the [*Discussions*](https://github.com/Hearth-OS/Wallpapers/discussions) tab.
